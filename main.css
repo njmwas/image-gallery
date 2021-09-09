@@ -1,0 +1,13 @@
+@import url(./libraries/bootstrap-5.1.1-dist/css/bootstrap.min.css);
+
+body{
+    margin:0;
+}
+
+.mycol{
+    border: 1px red solid;
+}
+
+#gallery-container img{
+    width: 100%;
+}
